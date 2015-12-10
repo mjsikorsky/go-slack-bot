@@ -5,4 +5,4 @@ config:
   - name: OPTION
     friendly_name: Some Unnecessary Option
     info: This is an unnecessary option
-    default: the default value
+    default: the default value - hi
